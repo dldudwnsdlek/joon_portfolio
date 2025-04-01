@@ -1,6 +1,3 @@
-* [데이터 리차드 포트폴리오를 참고하려면?](https://dongchanlim.github.io/github-portfolio/)
-* [무료 이미지 사이트](https://unsplash.com/)
-
 ## 📊 자기 소개 (Introduction)
 ------
 
